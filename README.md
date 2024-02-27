@@ -1,5 +1,5 @@
 # GeminiVertexDemo
-Gemini Pro API Demo project in Android and Jetpack Compose
+Gemini Pro API Demo project in Android and Jetpack Compose. Detailed article available at https://wajahatkarim.com/2024/02/getting-started-with-gemini-android-api/
 
 # How to use
 
